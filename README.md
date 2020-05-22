@@ -31,13 +31,6 @@ If you use mac OS X, you must have seen this image:
 | **`setText("Hello World!")`** | ![two](MaterialBadgeTextView/art/badge_hello.png) |
 | **`setText("10999999976")`** | ![two](MaterialBadgeTextView/art/badge_long.png) |
 
-
-## Compat
-API level 9+ supported
-
-## Example
-See example code here on Github. You can also see it live downloading [this apk](https://raw.githubusercontent.com/matrixxun/MaterialBadgeTextView/master/MaterialBadgeTextView/apk/app-debug.apk)
-
 License
 --------
 
