@@ -12,31 +12,24 @@ As the name describes, This "MaterialBadgeTextView" is an Android library that p
 
 If you use mac OS X, you must have seen this image:
   
-<img src="https://github.com/matrixxun/MaterialBadgeTextView/blob/master/MaterialBadgeTextView/art/qq_pic.png" width="600">
+<img src="https://github.com/nathanmkaya/blob/master/art/qq_pic.png" width="600">
 
 ## Demo Screen Capture
-<img src="https://github.com/matrixxun/MaterialBadgeTextView/blob/master/MaterialBadgeTextView/art/screen_cap.png" width="400">
+<img src="https://github.com/nathanmkaya/blob/master/art/screen_cap.png" width="400">
 
 ## Usage
 | Code | Badge |
 | :----- | :------ | 
 | **`setBadgeCount(0,true)`** | the TextView is blank |
-| **`setBadgeCount(0,false)`** | ![badge_0](MaterialBadgeTextView/art/badge_0.png) |
-| **`setBadgeCount(3)`** | ![number](MaterialBadgeTextView/art/badge_3.png) |
-| **`setBadgeCount(68)`** | ![two](MaterialBadgeTextView/art/badge_68.png) |
-| **`setBadgeCount(101)`** | ![two](MaterialBadgeTextView/art/badge_99.png) |
-| **`setBadgeCount(99999)`** | ![two](MaterialBadgeTextView/art/badge_99.png) |
-| **`setHighLightMode()`** | ![two](MaterialBadgeTextView/art/badge_red.png) |
+| **`setBadgeCount(0,false)`** | ![badge_0](art/badge_0.png) |
+| **`setBadgeCount(3)`** | ![number](art/badge_3.png) |
+| **`setBadgeCount(68)`** | ![two](art/badge_68.png) |
+| **`setBadgeCount(101)`** | ![two](art/badge_99.png) |
+| **`setBadgeCount(99999)`** | ![two](art/badge_99.png) |
+| **`setHighLightMode()`** | ![two](art/badge_red.png) |
 | **`setText("")`** | the TextView is blank |
-| **`setText("Hello World!")`** | ![two](MaterialBadgeTextView/art/badge_hello.png) |
-| **`setText("10999999976")`** | ![two](MaterialBadgeTextView/art/badge_long.png) |
-
-
-## Compat
-API level 9+ supported
-
-## Example
-See example code here on Github. You can also see it live downloading [this apk](https://raw.githubusercontent.com/matrixxun/MaterialBadgeTextView/master/MaterialBadgeTextView/apk/app-debug.apk)
+| **`setText("Hello World!")`** | ![two](art/badge_hello.png) |
+| **`setText("10999999976")`** | ![two](art/badge_long.png) |
 
 License
 --------
