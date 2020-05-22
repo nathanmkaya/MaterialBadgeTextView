@@ -12,10 +12,10 @@ As the name describes, This "MaterialBadgeTextView" is an Android library that p
 
 If you use mac OS X, you must have seen this image:
   
-<img src="https://github.com/nathanmkaya/blob/master/art/qq_pic.png" width="600">
+<img src="https://github.com/nathanmkaya/MaterialBadgeTextView/blob/master/art/qq_pic.png" width="600">
 
 ## Demo Screen Capture
-<img src="https://github.com/nathanmkaya/blob/master/art/screen_cap.png" width="400">
+<img src="https://github.com/nathanmkaya/MaterialBadgeTextView/blob/master/art/screen_cap.png" width="400">
 
 ## Usage
 | Code | Badge |
